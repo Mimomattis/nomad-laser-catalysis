@@ -1,0 +1,33 @@
+{
+  "template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-plugin",
+  "commit": "ae953b0ba24e2df26daf5d641faeaaebb1d8aba2",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Mattis Goßler",
+      "email": "m.gossler@fz-juelich.de",
+      "github_username": "foo",
+      "plugin_name": "nomad-laser-catalysis",
+      "module_name": "nomad_laser_catalysis",
+      "short_description": "A NOMAD plugin for laser synthesized catalysts",
+      "version": "0.1.0",
+      "license": "MIT",
+      "include_schema_package": true,
+      "include_normalizer": false,
+      "include_parser": true,
+      "include_app": true,
+      "include_example_uploads": false,
+      "include_action": false,
+      "include_north_tools": false,
+      "north_tool_name": "my_north_tool",
+      "include_citation_file": false,
+      "_copy_without_render": [
+        "*.html",
+        "*.png"
+      ],
+      "_template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-plugin",
+      "_commit": "ae953b0ba24e2df26daf5d641faeaaebb1d8aba2"
+    }
+  },
+  "directory": null
+}
